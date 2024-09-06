@@ -40,6 +40,15 @@
 </li>
 
 <h2>📈 Graph Visualization</h2>
+<img src="predict_train.png" alt="prediction on train data" width="600">
+<br>
+<img src="bestline_train.png" alt="best line on train data" width="600">
+<br>
+<img src="predict_test.png" alt="prediction on test data" width="600">
+<br>
+
+<img src="bestline_test.png" alt="best line on test data" width="600">
+<br>
 
 
 <h1>CONTRIBUTING</h1>
